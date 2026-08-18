@@ -390,12 +390,6 @@ FAISS vs BM25 vs Hybrid
 The project currently focuses on the retrieval stage and its evaluation
 before moving to more advanced RAG improvements.
 
-## 👨‍💻 Author
-
-**Ayush Singh**
-
-M.Tech Data Science\
-National Institute of Technology, Jalandhar
 
 ------------------------------------------------------------------------
 
